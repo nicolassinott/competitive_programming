@@ -1,6 +1,0 @@
-NO
-NO
-NO
-YES
-aaaa*YES
-abcdNO

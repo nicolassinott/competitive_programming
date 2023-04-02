@@ -42,9 +42,9 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 
 | Platform  | Problem | Language | 
 | - | - | - |
-| ![alt text](https://open.kattis.com/favicon) | [HISTOGRA - Largest Rectangle in a Histogram](https://www.spoj.com/problems/HISTOGRA/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/D/main.cpp) |
-| ![alt text](https://open.kattis.com/favicon) | [KTH_INDEX - Solution to all the problems](https://www.spoj.com/problems/KTH_INDEX/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/F/main.cpp) |
-| ![alt text](https://open.kattis.com/favicon) | [INVCNT - Inversion Count](https://www.spoj.com/problems/INVCNT/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/E/main.cpp) |
+| ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/spoj.png?raw=true) | [HISTOGRA - Largest Rectangle in a Histogram](https://www.spoj.com/problems/HISTOGRA/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/D/main.cpp) |
+| ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/spoj.png?raw=true) | [KTH_INDEX - Solution to all the problems](https://www.spoj.com/problems/KTH_INDEX/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/F/main.cpp) |
+| ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/spoj.png?raw=true) | [INVCNT - Inversion Count](https://www.spoj.com/problems/INVCNT/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/E/main.cpp) |
 
 ## LeetCode Solutions
 

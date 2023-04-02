@@ -1,11 +1,14 @@
 # 💡 Competitive Programming
 
-Collection of my solutions to competitive programming problems in [Codeforces](https://codeforces.com/), [LeetCode](https://leetcode.com/), and [Kattis](https://open.kattis.com/). You can access below both the problems and their solutions. 
+Collection of my solutions to competitive programming problems in [Codeforces](https://codeforces.com/), [Kattis](https://open.kattis.com/), [Spoj](https://www.spoj.com/), and [LeetCode](https://leetcode.com/). You can access below both the problems and their solutions. 
 
 ## Codeforces Solutions
 
 | Platform  | Problem | Language | 
 | - | - | - |
+| ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/code_forces_logo%20(1).png?raw=true) | [Place for a Selfie](https://codeforces.com/contest/1805/problem/C) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/CodeForces/contest_problems/contest_862/C/c.cpp) |
+| ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/code_forces_logo%20(1).png?raw=true) | [The String Has a Target](https://codeforces.com/contest/1805/problem/B) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/CodeForces/contest_problems/contest_862/B/b.cpp) |
+| ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/code_forces_logo%20(1).png?raw=true) | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/CodeForces/contest_problems/contest_862/A/a.cpp) |
 | ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/code_forces_logo%20(1).png?raw=true) | [Equalize by Divide](https://codeforces.com/contest/1799/problem/B) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/CodeForces/contest_problems/contest_854/A/a.cpp) |
 | ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/code_forces_logo%20(1).png?raw=true) | [Recent Actions](https://codeforces.com/contest/1799/problem/A) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/CodeForces/contest_problems/contest_854/B/b.cpp) | 
 | ![alt text](https://github.com/nicolassinott/competitive_programming/blob/main/logos/code_forces_logo%20(1).png?raw=true) | [Typical Interview Problem](https://codeforces.com/contest/1796/problem/A) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/CodeForces/contest_problems/contest_Edu_144/A/a.cpp) | 
@@ -34,6 +37,14 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 | ![alt text](https://open.kattis.com/favicon) | [Distributing Ballot Boxes](https://open.kattis.com/problems/ballotboxes) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/C/c.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Classrooms](https://open.kattis.com/problems/classrooms) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/D/d.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Distributing Seats](https://open.kattis.com/problems/distributingseats) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/E/e.cpp) |
+
+## Spoj Solutions
+
+| Platform  | Problem | Language | 
+| - | - | - |
+| ![alt text](https://open.kattis.com/favicon) | [HISTOGRA - Largest Rectangle in a Histogram](https://www.spoj.com/problems/HISTOGRA/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/D/main.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [KTH_INDEX - Solution to all the problems](https://www.spoj.com/problems/KTH_INDEX/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/F/main.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [INVCNT - Inversion Count](https://www.spoj.com/problems/INVCNT/) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class01/E/main.cpp) |
 
 ## LeetCode Solutions
 

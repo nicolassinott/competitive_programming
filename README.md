@@ -21,5 +21,19 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 
 ## Kattis Solutions
 
+| Platform  | Problem | Language | 
+| - | - | - |
+| ![alt text](https://open.kattis.com/favicon) | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/A/main.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/B/main.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/C/main.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Prime Sieve](https://open.kattis.com/problems/primesieve) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/G/main.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Paintings](https://open.kattis.com/problems/paintings) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class03/A/a.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Page Layout](https://open.kattis.com/problems/pagelayout) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class03/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/A/a.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Fishmongers](https://open.kattis.com/problems/fishmongers) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Distributing Ballot Boxes](https://open.kattis.com/problems/ballotboxes) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/C/c.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Classrooms](https://open.kattis.com/problems/classrooms) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/D/d.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Distributing Seats](https://open.kattis.com/problems/distributingseats) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class04/E/e.cpp) |
+
 ## LeetCode Solutions
 

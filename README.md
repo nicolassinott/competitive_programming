@@ -26,6 +26,11 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 
 | Platform  | Problem | Language | 
 | - | - | - |
+| ![alt text](https://open.kattis.com/favicon) | [Knapsack](https://open.kattis.com/problems/knapsack) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class05/E/e.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [The Weight Of Words](https://open.kattis.com/problems/weightofwords) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class05/D/d.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class05/C/c.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [The Stock Market](https://open.kattis.com/problems/borsen) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class05/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Walrus Weights](https://open.kattis.com/problems/walrusweights) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class05/A/a.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/A/main.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/B/main.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class02/C/main.cpp) |

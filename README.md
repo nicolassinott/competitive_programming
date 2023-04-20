@@ -35,7 +35,7 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 
 | Platform  | Problem | Language | 
 | - | - | - |
-| ![alt text](https://open.kattis.com/favicon) | [Frosting on the Cake](https://open.kattis.com/problems/frosting) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Frosting on the Cake](https://open.kattis.com/problems/frosting) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/C/c.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Cakey McCakeFace](https://open.kattis.com/problems/cakeymccakeface) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/B/b.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/A/a.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Knapsack](https://open.kattis.com/problems/knapsack) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class05/E/e.cpp) |

@@ -35,6 +35,12 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 
 | Platform  | Problem | Language | 
 | - | - | - |
+| ![alt text](https://open.kattis.com/favicon) | [	Chopping Wood](https://open.kattis.com/problems/chopwood) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/F/f.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Build Dependencies](https://open.kattis.com/problems/builddeps) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/E/e.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Kitten on a Tree](https://open.kattis.com/problems/kitten) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/D/d.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Through the Grapevine](https://open.kattis.com/problems/grapevine) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/C/c.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Grid](https://open.kattis.com/problems/grid) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/A/a.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Frosting on the Cake](https://open.kattis.com/problems/frosting) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/C/c.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Cakey McCakeFace](https://open.kattis.com/problems/cakeymccakeface) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/B/b.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class06/A/a.cpp) |

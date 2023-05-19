@@ -35,6 +35,16 @@ Collection of my solutions to competitive programming problems in [Codeforces](h
 
 | Platform  | Problem | Language | 
 | - | - | - |
+| ![alt text](https://open.kattis.com/favicon) | [	Magical Runes](https://open.kattis.com/problems/magicalrunes) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/exam/D/d.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Reversibly Cyclic Strings](https://open.kattis.com/problems/reversiblecyclic) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/exam/C/c.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Running Race](https://open.kattis.com/problems/kaploeb) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/exam/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Tabs and spaces](https://open.kattis.com/problems/tabsandspaces) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/exam/A/a.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Scrolling Sign](hhttps://open.kattis.com/problems/scrollingsign) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class09/C/c.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Canonical Coin Systems](https://open.kattis.com/problems/canonical) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class09/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	UnDetected](https://open.kattis.com/problems/undetected) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class08/D/d.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Bing It On](https://open.kattis.com/problems/bing) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class08/C/c.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire2) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class08/B/b.cpp) |
+| ![alt text](https://open.kattis.com/favicon) | [	Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class08/A/a.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [	Chopping Wood](https://open.kattis.com/problems/chopwood) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/F/f.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [	Build Dependencies](https://open.kattis.com/problems/builddeps) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/E/e.cpp) |
 | ![alt text](https://open.kattis.com/favicon) | [	Kitten on a Tree](https://open.kattis.com/problems/kitten) | [C++](https://github.com/nicolassinott/competitive_programming/blob/main/X_INF473A/class07/D/d.cpp) |
